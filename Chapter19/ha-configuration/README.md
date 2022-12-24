@@ -1,5 +1,6 @@
 # Basic Horizontal Scaling for GitLab with Amazon, Terraform and Ansible
-## https://nbering.github.io/terraform-provider-ansible/docs/installation.html  to install terraform.py
+## https://nbering.github.io/terraform-provider-ansible/docs/installation.html  to install terraform.py 
+### make sure ot mv it to /usr/local/bin/terraform.py
 ## Requirements
 * terraform >= v0.12
  * provider.aws v3.42.0
